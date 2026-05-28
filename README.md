@@ -19,10 +19,7 @@ A simple calculator built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-Add your GitHub Pages link here.
-
-Example:
-https://your-username.github.io/calculator-app/
+ https://cse23r01a05cq.github.io/Calculator/
 
 
 ## How It Works
